@@ -39,7 +39,7 @@
      <Compile Include="Assets\Scenes\Follower\Chaser.cs" />
      <Compile Include="Assets\Scenes\Guessing Game\GuessingGameScript.cs" />
      <Compile Include="Assets\Scenes\Follower\Player.cs" />
-     <Compile Include="Assets\Scenes\CubeScript.cs" />
+     <Compile Include="Assets\Scenes\Parenting-Spacing-Rotating\CubeScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
