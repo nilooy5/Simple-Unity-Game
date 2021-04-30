@@ -5,4 +5,5 @@ Packages/
 UserSettings/
 Temp/
 obj/
+obj/Debug/
 Assembly-CSharp.csproj
